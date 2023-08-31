@@ -1,0 +1,10 @@
+-- Autenticación de Windows
+Scaffold-DbContext "server=FREDDYI7\SQLEXPRESS;database=BDRESERVA_WEBAPI_REACT;integrated security=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+https://localhost:44310/api/ReservaAPI/GetReservasAnio/2022    -- citas por año
+
+https://localhost:44310/api/ReservaAPI/GetUsuariosCat/E02      -- listar usuarios por categorias
+
+https://localhost:44310/api/ReservaAPI/GetCategorias      -- listar categorias
+
