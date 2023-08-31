@@ -1,2 +1,2 @@
-# MicroservicesReservaAppwebAPI
-Aplicativo para la gestión de reservas, en donde se realizó el Back-End con WebAPI microservices .net core. Además, se realiz+o el Front-End  con React. En la base de datos se trabajó con SQL Server.
+# DBReservaAppwebAPI
+Base de datos realizado en SQL Server para la creación y administración de tablas y procedimientos almacenados del aplicativo de reservas, en donde se realizó el Back-End con WebAPI microservices .net core. Además, se realizó el Front-End  con React.
